@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"ColorPick",
+		"Diffy",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"JsFormat",
+		"Local History",
+		"Package Control",
+		"Sass",
+		"SassBeautify",
+		"SublimeLinter",
+		"Theme - Spacegray"
+	]
+}
