@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"Emmet",
+		"Emmet Css Snippets",
+		"JSLint",
+		"Package Control",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Theme - Spacegray"
+	]
+}
